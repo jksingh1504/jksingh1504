@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jksingh1504
+- 👋 Hi, I’m Jyoti Kamal Singh
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
