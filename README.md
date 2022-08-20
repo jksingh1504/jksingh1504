@@ -60,7 +60,7 @@
 
 <p align="left">
     <a href="https://github.com/9Prajjwal/outnetclone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet&color=000000&logo=Outnet&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
     </a>
     <a href="https://github.com/surajDongre-16/MAX-Fashion-clone-web-17" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Max Fashion&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Max-Fashion" />
