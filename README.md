@@ -68,10 +68,10 @@
     <a href="https://github.com/jksingh1504/Orbitz-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Orbitz Clone App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Orbitz-clone" />
     </a>
-   <!-- <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
+   <a href="https://github.com/surajDongre-16/fraazo-clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fraazo clone App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Fraazo-clone" />
     </a>
-    <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
+    <!-- <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
     </a>
     <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
@@ -130,10 +130,10 @@
     <a href="https://github.com/jksingh1504/Orbitz-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=Orbitz-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <!-- <a href="https://github.com/m-sehrawat/Translation-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/surajDongre-16/fraazo-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajDongre-16&repo=fraazo-clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-     <a href="https://github.com/m-sehrawat/Facebook-Clone">
+    <!--  <a href="https://github.com/m-sehrawat/Facebook-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
