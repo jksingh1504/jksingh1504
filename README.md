@@ -122,7 +122,7 @@
 
 <p>
     <a href="https://github.com/9Prajjwal/outnetclone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9Prajjwal&repo=outnetclone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9Prajjwal&repo=outnetclone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
     </a>
     <a href="https://github.com/surajDongre-16/MAX-Fashion-clone-web-17">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajDongre-16&repo=MAX-Fashion-clone-web-17&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
