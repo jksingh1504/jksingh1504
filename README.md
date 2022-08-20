@@ -122,7 +122,7 @@
 
 <p>
     <a href="https://github.com/9Prajjwal/outnetclone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=outnetclone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9Prajjwal&repo=outnetclone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/m-sehrawat/Mini-Store">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
