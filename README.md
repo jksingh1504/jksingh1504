@@ -60,16 +60,16 @@
 
 <p align="left">
     <a href="https://github.com/9Prajjwal/outnetclone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet&color=000000&logo=Outnet&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet&color=000000&logo=&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
     </a>
     <a href="https://github.com/surajDongre-16/MAX-Fashion-clone-web-17" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Max Fashion&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Max-Fashion" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Max Fashion&color=1BB91F&logo=&logoColor=FFFFFF&label=" alt="Max-Fashion" />
     </a>
     <a href="https://github.com/jksingh1504/Orbitz-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Orbitz Clone App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Orbitz-clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Orbitz Clone App&color=FD3A5C&logo=&logoColor=FFFFFF&label=" alt="Orbitz-clone" />
     </a>
    <a href="https://github.com/surajDongre-16/fraazo-clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fraazo clone App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Fraazo-clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fraazo clone App&color=840010&logo=&logoColor=FFFFFF&label=" alt="Fraazo-clone" />
     </a>
     <!-- <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
