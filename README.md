@@ -20,7 +20,7 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat">
+    <a href="https://github.com/jksingh1504">
         <img src="https://komarev.com/ghpvc/?username=jksingh1504t&label=Profile%20views&color=0e75b6&style=flat" alt="jksingh1504" />
     </a>
     <a href="https://github.com/jksingh1504?tab=followers">
@@ -36,8 +36,8 @@
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    // <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    // <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /> -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
@@ -121,8 +121,8 @@
 <h2><i>Top Repositories</i></h2>
 
 <p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/9Prajjwal/outnetclone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
     <a href="https://github.com/m-sehrawat/Mini-Store">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
