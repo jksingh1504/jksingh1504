@@ -60,15 +60,15 @@
 
 <p align="left">
     <a href="https://github.com/9Prajjwal/outnetclone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
     </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    <a href="https://github.com/surajDongre-16/MAX-Fashion-clone-web-17" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Max Fashion&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Max-Fashion" />
     </a>
-    <a href="https://github.com/m-sehrawat/Weather-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    <a href="https://github.com/jksingh1504/Orbitz-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Orbitz Clone App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Orbitz-clone" />
     </a>
-    <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
+   <!-- <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
     </a>
     <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
@@ -82,7 +82,7 @@
     </a>
     <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
+    </a> -->
 </p>
 <br>
 
@@ -127,10 +127,10 @@
     <a href="https://github.com/surajDongre-16/MAX-Fashion-clone-web-17">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajDongre-16&repo=MAX-Fashion-clone-web-17&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/jksingh1504/Orbitz-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=Orbitz-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Translation-App">
+    <!-- <a href="https://github.com/m-sehrawat/Translation-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
      <a href="https://github.com/m-sehrawat/Facebook-Clone">
@@ -144,6 +144,6 @@
     </a>
     <a href="https://github.com/m-sehrawat/Adidas-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
+    </a> -->
 
 </p>
