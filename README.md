@@ -82,7 +82,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jyoti-kamal-singh/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/jyoti-kamal-sing" />
     </a>
     
     <a href="https://jyoti-kamal.netlify.app/">
