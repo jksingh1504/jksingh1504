@@ -66,11 +66,11 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet&color=000000&logo=&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
     </a>
     
-    <a href="https://github.com/jksingh1504/Orbitz-Clone" target="blank">
+<!--     <a href="" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Orbitz Clone App&color=FD3A5C&logo=&logoColor=FFFFFF&label=" alt="Orbitz-clone" />
-    </a>
-   <a href="https://github.com/surajDongre-16/fraazo-clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fraazo clone App&color=840010&logo=&logoColor=FFFFFF&label=" alt="Fraazo-clone" />
+    </a> -->
+   <a href="https://github.com/jksingh1504/Orbitz-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Orbitz Clone&color=840010&logo=&logoColor=FFFFFF&label=" alt="Orbitz-clone" />
     </a>
     
 </p>
