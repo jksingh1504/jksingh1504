@@ -121,29 +121,18 @@
 <h2><i>Top Repositories</i></h2>
 
 <p>
+    <a href="https://github.com/jksingh1504/max-fashion-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=max-fashion-clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
+    </a>
     <a href="https://github.com/9Prajjwal/outnetclone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9prajjwal&repo=outnetclone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
-    </a>
-    <a href="https://github.com/surajDongre-16/MAX-Fashion-clone-web-17">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajDongre-16&repo=MAX-Fashion-clone-web-17&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
     </a>
     <a href="https://github.com/jksingh1504/Orbitz-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=Orbitz-Clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
     </a>
-    <a href="https://github.com/surajDongre-16/fraazo-clone">
+<!--     <a href="https://github.com/surajDongre-16/fraazo-clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajDongre-16&repo=fraazo-clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
-    </a>
-    <!--  <a href="https://github.com/m-sehrawat/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
     </a> -->
+   
 
 </p>
