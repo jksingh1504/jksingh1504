@@ -59,30 +59,20 @@
 <h2><i>My top projects</i></h2>
 
 <p align="left">
+    <a href="https://github.com/jksingh1504/max-fashion-clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Max Fashion&color=1BB91F&logo=&logoColor=FFFFFF&label=" alt="Max-Fashion" />
+    </a>
     <a href="https://github.com/9Prajjwal/outnetclone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=The Outnet&color=000000&logo=&logoColor=FFFFFF&label=" alt="The-Outnet-clone" />
     </a>
-    <a href="https://github.com/surajDongre-16/MAX-Fashion-clone-web-17" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Max Fashion&color=1BB91F&logo=&logoColor=FFFFFF&label=" alt="Max-Fashion" />
-    </a>
+    
     <a href="https://github.com/jksingh1504/Orbitz-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Orbitz Clone App&color=FD3A5C&logo=&logoColor=FFFFFF&label=" alt="Orbitz-clone" />
     </a>
-   <a href="https://github.com/surajDongre-16/fraazo-clone" target="blank">
+<!--    <a href="https://github.com/surajDongre-16/fraazo-clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fraazo clone App&color=840010&logo=&logoColor=FFFFFF&label=" alt="Fraazo-clone" />
-    </a>
-    <!-- <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a> -->
+    
 </p>
 <br>
 
@@ -94,9 +84,7 @@
     <a href="https://www.linkedin.com/in/jyoti-kamal-singh/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
     </a>
-    <!-- <a href="https://twitter.com/MohitSehrawatt">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
-    </a> -->
+    
     <a href="https://jyoti-kamal.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://jyoti-kamal.netlify.app/" />
     </a>
