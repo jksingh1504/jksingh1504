@@ -13,7 +13,7 @@
 </h3>
 
 <h3>
-    <i>- Currently I am learning Full Stack Developement at Masai School</i>
+    <i>- Currently I am working as Software Developer</i>
 </h3>
 <br>
 
