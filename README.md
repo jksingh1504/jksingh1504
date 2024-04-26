@@ -114,11 +114,11 @@
 <h2><i>Top Repositories</i></h2>
 
 <p>
-    <a href="https://github.com/jksingh1504/max-fashion-clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=max-fashion-clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
+    <a href="https://github.com/jksingh150/max-fashion-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh150&repo=max-fashion-clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
     </a>
-    <a href="https://github.com/jksingh1504/Orbitz-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=Orbitz-Clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
+    <a href="https://github.com/jksingh150/Orbitz-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh150&repo=Orbitz-Clone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
     </a>
     <a href="https://github.com/jksingh1504/outnetclone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jksingh1504&repo=outnetclone&locale=en&border_radius=0&theme=dark" alt="jksingh1504" />
