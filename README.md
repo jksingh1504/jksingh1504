@@ -11,9 +11,7 @@
     <i>- A self motivated, team player with good individual and interpersonal skills, who can easily adapt in any condition with a strong will to take challenges head on. Skilled with MERN stack in web development with 1 yrs and 2 month of industry standards.</i>
 </h3>
 
-<h3>
-    <i>- Currently working as Software Developer.</i>
-</h3>
+
 <br>
 
 <!----------------------------------- Profile View Section ----------------------------------->
